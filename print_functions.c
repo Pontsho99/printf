@@ -4,7 +4,7 @@
 
 /**
  * print_char - Prints a char
- * by Pontsho and Edward
+ * by Pontsho and Edward.
  * @types: List a of arguments
  * @buffer: Buffer array to handle print
  * @flags:  Calculates active flags
