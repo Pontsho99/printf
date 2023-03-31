@@ -4,7 +4,7 @@
 
 /**
  * main - Entry point
- * by Pontsho and Edward
+ * by Pontsho and Edward.
  *
  * Return: Always 0
  */
